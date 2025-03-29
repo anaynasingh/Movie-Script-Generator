@@ -1,0 +1,16 @@
+datasets
+transformers
+ipython
+jupyter
+matplotlib
+notebook
+numpy
+pandas
+seaborn
+tqdm
+scikit-learn
+scipy
+plotly
+spacy
+tiktoken
+torch~=2.6.0
