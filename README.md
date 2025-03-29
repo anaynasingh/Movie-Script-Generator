@@ -18,7 +18,7 @@ MovieScriptGPT is a Transformer-based model that generates movie scripts given a
 
 ### Install Dependencies
 ```bash
-pip install torch datasets tqdm
+pip install -r requirements.txt
 ```
 
 ## Usage
